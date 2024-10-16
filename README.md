@@ -9,6 +9,6 @@ This tool displays an artistic ASCII image along with a message to create termux
    pkg install python
    pkg install git
    git clone https://github.com/Pablo404-EG/termux-pablo-banner-.git
-   cd pablo-banner
-   python3 pablo-baneer.py
+   cd termux-pablo-banner-
+   python3 banner.py
    ```
